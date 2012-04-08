@@ -6,7 +6,7 @@ Under Linux didn't test. Notify me if you did, please.
 ###Preinstallation:
 
 * Install wine ([mac os x manual](http://www.davidbaumgold.com/tutorials/wine-mac))
-* Install freepascal win32 compilator ([official web site](http://freepascal.org))
+* Install freepascal win32 compiler ([official web site](http://freepascal.org))
 
 ###Installation:
 
